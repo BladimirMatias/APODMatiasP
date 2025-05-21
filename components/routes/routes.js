@@ -16,7 +16,6 @@ export default Routes = () => {
         <Stack.Screen name="details" component={Details} />
         <Stack.Screen name="birthday" component={Birthday} options={{ title: "NASA en tu cumple" }} />
 
-
       </Stack.Navigator>
     </NavigationContainer>
   );
