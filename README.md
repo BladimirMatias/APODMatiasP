@@ -5,6 +5,7 @@
 ## 🌌 NASA APOD Mobile App
 
 Esta aplicación muestra la **imagen astronómica del día** (APOD - Astronomy Picture of the Day) provista por la NASA, junto a un historial de los últimos 7 días y la posibilidad de buscar la imagen del día de tu cumpleaños. Fue desarrollada en **React Native** como parte de un proyecto educativo.
+![IMG_3585](https://github.com/user-attachments/assets/772d1367-9f6f-43c4-a323-1a6c16d84fa4)
 
 ---
 
@@ -113,5 +114,3 @@ const apiKey = "TU_API_KEY_AQUI";
 Este proyecto es educativo y de código abierto. Podés reutilizarlo y modificarlo con fines personales o académicos.
 
 ---
-
-¿Querés que también incluya capturas de pantalla o instrucciones específicas para subir a Play Store más adelante? También puedo ayudarte con eso.
