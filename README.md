@@ -1,5 +1,3 @@
-¡Hola Matías! Con gusto te armo un README profesional y claro para tu proyecto de app NASA. Lo podés copiar y pegar directamente en tu repositorio de GitHub.
-
 ---
 
 ## 🌌 NASA APOD Mobile App
